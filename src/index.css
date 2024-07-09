@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+
+body {
+  /* display: flex; */
+  background-color: #fff;
+  color:#21243D;
+  font-family: "Heebo", sans-serif;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}

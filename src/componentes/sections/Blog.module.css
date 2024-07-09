@@ -1,0 +1,20 @@
+.blog{
+    background-color: #EDF7FA;
+    width: 100% ;
+    padding: 50px  0px 50px 0px ;
+    /* margin-right: 50px; */
+}
+
+.blog div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.blog h3{
+    font-size: 22px;
+    padding-left: 145px;
+    font-weight: 400;
+    line-height: 60px;
+    margin-left: 0px;
+}

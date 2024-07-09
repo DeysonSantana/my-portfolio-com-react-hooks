@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: right;
+    text-align: right;
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    position: relative;
+}
+
+.navbar li{
+    padding: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.navbar a{
+    color: #21243D;
+    text-decoration: none;
+}

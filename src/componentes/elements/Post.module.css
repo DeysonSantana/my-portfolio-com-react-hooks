@@ -1,0 +1,26 @@
+.post {
+  display: flex;
+  flex-direction: row !important;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.post div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.post div h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 50px;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 44.06px;
+  text-align: left;
+}
+
+.post div p {
+margin-top: 15px;
+  margin-left: 50px;
+}

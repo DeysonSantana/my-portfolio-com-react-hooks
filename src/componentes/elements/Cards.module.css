@@ -1,0 +1,19 @@
+.cards{
+    max-width: 420px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column !important;
+    /* margin: 20px; */
+}
+
+.cards  div{
+    display: flex;
+}
+
+.cards div span{
+    margin: 0 110px 0 0;
+    font-size: 16px;
+    padding: 0;
+}
