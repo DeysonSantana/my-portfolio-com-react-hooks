@@ -1,0 +1,41 @@
+
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+    align-content: center;
+}
+
+.footer div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer li{
+    padding: 30px;
+    align-items: center;
+}
+
+.footer a{
+    color:#21243D ;
+}
+
+.footer div p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.56px;
+    text-align: center;
+    
+}
+
