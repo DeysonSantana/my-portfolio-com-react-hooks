@@ -8,16 +8,16 @@ function Blog(){
             <div>
 
             <Cards
-                title="Making a design system from scratch"
-                date="12 Feb 2030"
-                tags="Design, Pattern"
-                description="Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+                title="Além do Básico: Explorando Recursos Avançados na Tecnologia para Aprimorar seu Site"
+                date="11 Dez 2023"
+                tags="site, dicas, tec"
+                description="A evolução constante da tecnologia digital oferece uma infinidade de recursos para aprimorar seu site, transformando-o em uma ferramenta mais..."
             />
             <Cards
-                title="Making a design system from scratch"
-                date="12 Feb 2030"
-                tags="Design, Pattern"
-                description="Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+                title="O que é preciso para ter um site?"
+                date="17 Dez 2023"
+                tags="site, dicas, tec"
+                description="Então, chegou o momento e você está decidido a trazer sua empresa para o mundo digital! Parabéns, ficamos felizes por ter tomado essa decisão. Mas tenho que perguntar: porque demorou tanto?"
             />
 
             </div>
