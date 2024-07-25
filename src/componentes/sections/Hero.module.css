@@ -24,3 +24,8 @@
     font-weight: 500;
     background-color: #FF6464;
 }
+
+.hero a{
+    text-decoration: none;
+    color: #fff;
+}

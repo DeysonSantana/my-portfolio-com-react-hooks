@@ -5,10 +5,9 @@ function Hero(){
     return (
         <div className={styles.hero}>
             <h1>Olá, eu sou Deyson<br></br> Desenvolvedor Web</h1>
-            <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. <br></br>
-                Velit officia consequat duis enim velit mollit. 
-                Exercitation veniam<br></br> consequat sunt nostrud amet.</p>
-                <button>Download resumo</button>
+            <p>Especialista na criação de websites! Com ❤️ e tecnologia ajudo você e sua empresa a ter presença digital através da criação de sites
+            </p>
+                <button> <a href="http://santecweb.com.br/quem-somos" target="_blank" rel="noopener noreferrer">Download resumo</a></button>
         </div>
     )
 }
